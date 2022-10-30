@@ -8,3 +8,13 @@ D:\UTE - K20\DBMS\project\QuanLiCuaHangDienThoai\obj\Debug\QuanLiCuaHangDienThoa
 D:\UTE - K20\DBMS\project\QuanLiCuaHangDienThoai\obj\Debug\QuanLiCuaHangDienThoai.csproj.CoreCompileInputs.cache
 D:\UTE - K20\DBMS\project\QuanLiCuaHangDienThoai\obj\Debug\QuanLiCuaHangDienThoai.exe
 D:\UTE - K20\DBMS\project\QuanLiCuaHangDienThoai\obj\Debug\QuanLiCuaHangDienThoai.pdb
+E:\Final CSDL\QuanLiCuaHangDienThoai__Nhom1\QuanLiCuaHangDienThoai\obj\Debug\QuanLiCuaHangDienThoai.csproj.AssemblyReference.cache
+E:\Final CSDL\QuanLiCuaHangDienThoai__Nhom1\QuanLiCuaHangDienThoai\obj\Debug\QuanLiCuaHangDienThoai.Forms.Formlogin.resources
+E:\Final CSDL\QuanLiCuaHangDienThoai__Nhom1\QuanLiCuaHangDienThoai\obj\Debug\QuanLiCuaHangDienThoai.Properties.Resources.resources
+E:\Final CSDL\QuanLiCuaHangDienThoai__Nhom1\QuanLiCuaHangDienThoai\obj\Debug\QuanLiCuaHangDienThoai.csproj.GenerateResource.cache
+E:\Final CSDL\QuanLiCuaHangDienThoai__Nhom1\QuanLiCuaHangDienThoai\obj\Debug\QuanLiCuaHangDienThoai.csproj.CoreCompileInputs.cache
+E:\Final CSDL\QuanLiCuaHangDienThoai__Nhom1\QuanLiCuaHangDienThoai\obj\Debug\QuanLiCuaHangDienThoai.exe
+E:\Final CSDL\QuanLiCuaHangDienThoai__Nhom1\QuanLiCuaHangDienThoai\obj\Debug\QuanLiCuaHangDienThoai.pdb
+E:\Final CSDL\QuanLiCuaHangDienThoai__Nhom1\QuanLiCuaHangDienThoai\bin\Debug\QuanLiCuaHangDienThoai.exe.config
+E:\Final CSDL\QuanLiCuaHangDienThoai__Nhom1\QuanLiCuaHangDienThoai\bin\Debug\QuanLiCuaHangDienThoai.exe
+E:\Final CSDL\QuanLiCuaHangDienThoai__Nhom1\QuanLiCuaHangDienThoai\bin\Debug\QuanLiCuaHangDienThoai.pdb

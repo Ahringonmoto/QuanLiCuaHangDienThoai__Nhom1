@@ -8,13 +8,18 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace QuanLiCuaHangDienThoai
+namespace QuanLiCuaHangDienThoai.Forms
 {
-    public partial class Form1 : Form
+    public partial class Formlogin : Form
     {
-        public Form1()
+        public Formlogin()
         {
             InitializeComponent();
+        }
+
+        private void Formlogin_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
